@@ -38,7 +38,6 @@ A failed ping test was identified from HR to Admin, demonstrating an unreachable
 - Understanding successful vs failed network communication
 - Basic network analysis
 
----
 
 ## 🔐 Cybersecurity & GRC Relevance
 
@@ -49,14 +48,10 @@ This project helped strengthen my understanding of foundational networking conce
 - Security investigations
 - Access control validation
 
----
-
 ## 📂 Attached Assignment PDF
 
 [View the Full Network Assignment PDF](.[Michael Adeoba Network Assignment.pdf](https://github.com/user-attachments/files/28232791/Michael.Adeoba.Network.Assignment.pdf)
-)
 
----
 
 ## 👨‍💻 Author
 
