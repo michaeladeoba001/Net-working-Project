@@ -53,7 +53,8 @@ This project helped strengthen my understanding of foundational networking conce
 
 ## 📂 Attached Assignment PDF
 
-[View the Full Network Assignment PDF](./Michael%20Adeoba%20Network%20Assignment.pdf)
+[View the Full Network Assignment PDF](.[Michael Adeoba Network Assignment.pdf](https://github.com/user-attachments/files/28232791/Michael.Adeoba.Network.Assignment.pdf)
+)
 
 ---
 
